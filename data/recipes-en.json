@@ -1,0 +1,3279 @@
+{
+    "recipes": [
+        {
+            "id": "ful-medames",
+            "title": "Ful Medames",
+            "originalName": "فول مدمس",
+            "description": "Brown fava beans cooked overnight on the lowest flame — Egypt's breakfast, and its Jews' breakfast too.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Ful_Medames.jpg",
+            "prepTime": 20,
+            "cookTime": 300,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried brown fava beans",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "brown lentils",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                }
+            ],
+            "instructions": [
+                "Soak the beans 24 hours, changing the water twice. Unsoaked fava will not soften even in five hours.",
+                "Cook with the lentils on the lowest possible heat, covered, for 4–5 hours. The lentils collapse and thicken the liquid.",
+                "Do not salt until the end — early salt toughens the skins.",
+                "Crush about a third with a fork and leave the rest whole.",
+                "Mix the garlic, cumin, lemon and salt and fold through.",
+                "Pour olive oil generously over and scatter parsley. Serve with baladi bread. Parve."
+            ],
+            "tags": [
+                "ful",
+                "breakfast",
+                "parve",
+                "egyptian"
+            ]
+        },
+        {
+            "id": "taamia",
+            "title": "Ta'amia",
+            "originalName": "طعمية",
+            "description": "Egyptian falafel made from FAVA beans, not chickpeas — green inside, heavy with herbs, and entirely soft.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Taamia.jpg",
+            "prepTime": 40,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "dried split fava beans",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "large bunch"
+                },
+                {
+                    "name": "fresh dill",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "spring onions",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground coriander and cumin",
+                    "quantity": "1",
+                    "unit": "tbsp each"
+                },
+                {
+                    "name": "sesame seeds to coat",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Soak the split fava 24 hours and drain well. Do not cook them — cooked beans disintegrate in the oil.",
+                "Grind the beans, coriander, dill, spring onion and garlic in a meat grinder or processor to a pale green paste.",
+                "The green colour is the sign the herb-to-bean ratio is right. Too brown means too few herbs.",
+                "Add the spices and salt and chill at least an hour.",
+                "Shape flat discs, dip one side in sesame and flatten slightly.",
+                "Fry at 170°C for 4 minutes a side. Serve in pita with tahini and salad. Parve."
+            ],
+            "tags": [
+                "taamia",
+                "fava",
+                "parve",
+                "fried"
+            ]
+        },
+        {
+            "id": "koshari",
+            "title": "Koshari",
+            "originalName": "كشري",
+            "description": "Rice, lentils, pasta, chickpeas and fried onion in one bowl — four layers and two sauces.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Koshari.jpg",
+            "prepTime": 40,
+            "cookTime": 60,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "brown lentils",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "short macaroni",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "8",
+                    "unit": "cloves"
+                }
+            ],
+            "instructions": [
+                "Deep-fry the onion 20 minutes to a dark, crisp brown. Drain. Keep some of the oil for the rice.",
+                "Cook the lentils 20 minutes until soft but not collapsing. Drain.",
+                "Cook the rice in the onion oil, and the macaroni separately.",
+                "Tomato sauce: fry the garlic, add the crushed tomatoes, vinegar and chilli and cook 20 minutes.",
+                "Daqqa (garlic-vinegar sauce): fry crushed garlic for 30 seconds only, then add vinegar and cumin.",
+                "Build in a bowl: rice, lentils, macaroni, chickpeas, tomato sauce, daqqa, and fried onion on top. Parve."
+            ],
+            "tags": [
+                "koshari",
+                "lentils",
+                "parve",
+                "street food"
+            ]
+        },
+        {
+            "id": "bissara",
+            "title": "Bissara",
+            "originalName": "بصارة",
+            "description": "A green fava purée with dill and coriander — very green, served with olive oil and bread.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Bissara.jpg",
+            "prepTime": 20,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried split fava beans",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fresh dill",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "spring onions",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Soak the fava 12 hours and cook 45 minutes until fully collapsed.",
+                "Add the herbs and spring onion and cook 5 minutes only — longer and the green turns brown.",
+                "Blend completely smooth.",
+                "Fry crushed garlic in olive oil for 30 seconds and stir it in.",
+                "Add the cumin, lemon and salt and correct.",
+                "Served hot and thick, or cold and thicker. Drizzle olive oil over. Parve."
+            ],
+            "tags": [
+                "bissara",
+                "fava",
+                "green",
+                "parve"
+            ]
+        },
+        {
+            "id": "ful-iskandarani",
+            "title": "Alexandrian Ful",
+            "originalName": "فول اسكندراني",
+            "description": "Cooked ful tossed with tahini, tomato and chilli — the city's version against Cairo's.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Ful_Iskandarani.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cooked fava beans",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tomatoes, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "green chillies",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "4",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Warm the beans with a little of their cooking liquid.",
+                "Whisk the raw tahini with cold water, lemon, garlic and salt until pale and smooth.",
+                "Crush half the beans and leave the rest whole.",
+                "Fold the tahini in off the heat — boiled tahini seizes into grains.",
+                "Add the chopped tomato, chilli and cumin.",
+                "Drizzle olive oil and serve hot. Parve — tahini is parve, and so is the dish."
+            ],
+            "tags": [
+                "ful",
+                "tahini",
+                "alexandria",
+                "parve"
+            ]
+        },
+        {
+            "id": "ful-b-beid",
+            "title": "Ful with Eggs",
+            "originalName": "فول بالبيض",
+            "description": "Fava beans tossed with beaten egg and onion — a fifteen-minute breakfast.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Ful_B_Beid.jpg",
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cooked fava beans",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/3",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil 8 minutes until golden.",
+                "Add the cooked beans and crush them partly in the pan.",
+                "Add cumin, salt and pepper and cook 3 minutes.",
+                "Beat the eggs and pour them in, stirring at once — egg left to sit sets hard at the edges.",
+                "Cook 3–4 minutes until the eggs set but stay soft.",
+                "Finish with lemon and parsley. Parve."
+            ],
+            "tags": [
+                "ful",
+                "eggs",
+                "parve",
+                "quick"
+            ]
+        },
+        {
+            "id": "ful-nabed",
+            "title": "Ful Nabet — Sprouted Fava",
+            "originalName": "فول نابت",
+            "description": "Fava sprouted for three days before cooking — softer, sweeter and easier to digest.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Ful_Nabed.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried brown fava beans",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "5",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "green chilli",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                }
+            ],
+            "instructions": [
+                "Soak the beans 12 hours, drain, and leave them in a damp cloth for 3 days at room temperature.",
+                "Wet the cloth twice a day. Small sprouts about half a centimetre long appear.",
+                "The sprouting softens the bean and cuts two hours off the cooking — it is a technique, not a whim.",
+                "Cook 80 minutes in water until completely tender.",
+                "Crush partly and add the garlic, cumin, lemon and salt.",
+                "Drizzle olive oil and scatter coriander and chilli. Parve."
+            ],
+            "tags": [
+                "ful",
+                "sprouted",
+                "parve",
+                "egyptian"
+            ]
+        },
+        {
+            "id": "eish-baladi",
+            "title": "Eish Baladi",
+            "originalName": "عيش بلدي",
+            "description": "A wholemeal country bread that balloons into a pocket in a scorching oven — \"eish\" means both bread and life.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Eish_Baladi.jpg",
+            "prepTime": 120,
+            "cookTime": 8,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "wholemeal flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "bran to dust",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Froth the yeast in warm water 10 minutes.",
+                "Add both flours and the salt and knead 10 minutes. Wholemeal dough needs longer kneading.",
+                "Rise 1½ hours.",
+                "Divide into eight balls, roll in bran and rest another 30 minutes.",
+                "Roll into 1 cm thick rounds — thicker than an ordinary pita.",
+                "Bake on a stone at 280°C for 6–8 minutes. The pocket forms within seconds. Parve."
+            ],
+            "tags": [
+                "eish baladi",
+                "bread",
+                "parve",
+                "wholemeal"
+            ]
+        },
+        {
+            "id": "dukkah",
+            "title": "Dukkah",
+            "originalName": "دقة",
+            "description": "A nut, sesame and spice mix that bread is dipped into after olive oil — dry on purpose.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Dukkah.jpg",
+            "prepTime": 20,
+            "cookTime": 15,
+            "servings": 16,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "hazelnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander seeds",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cumin seeds",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black peppercorns",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Roast the hazelnuts at 170°C for 12 minutes and rub in a cloth to remove the skins.",
+                "Toast the sesame, coriander and cumin separately in a dry pan — each burns at a different rate.",
+                "Cool everything completely before pounding.",
+                "Pound in a mortar to a coarse texture, not a powder. Smooth dukkah becomes nut butter the moment the oil releases.",
+                "Mix with the dried mint, pepper and salt.",
+                "Keep in a sealed jar. Dip bread in olive oil, then in dukkah. Parve."
+            ],
+            "tags": [
+                "dukkah",
+                "nuts",
+                "parve",
+                "spice"
+            ]
+        },
+        {
+            "id": "mesaa",
+            "title": "Egyptian Mesa'aa",
+            "originalName": "مسقعة",
+            "description": "Fried aubergine in tomato with chickpeas, with no meat and no béchamel — and served cold.",
+            "category": "Ful and Taamia",
+            "kosherType": "Parve",
+            "image": "images/Mesaa.jpg",
+            "prepTime": 40,
+            "cookTime": 50,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "aubergines, sliced",
+                    "quantity": "3",
+                    "unit": "large"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "green peppers",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "8",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Egyptian mesa'aa is not the Greek one: no meat, no béchamel, and it is eaten cold.",
+                "Salt the aubergine slices 30 minutes, squeeze and fry until golden. Drain on a rack.",
+                "Fry the onion, garlic and green pepper 10 minutes.",
+                "Add the tomato paste, crushed tomatoes and chickpeas and cook 15 minutes.",
+                "Lay the aubergine in a tin and pour the sauce over.",
+                "Bake at 190°C for 30 minutes and cool completely. Served cold with bread. Parve."
+            ],
+            "tags": [
+                "mesaa",
+                "aubergine",
+                "parve",
+                "cold"
+            ]
+        },
+        {
+            "id": "molokhia-farkha",
+            "title": "Mulukhiyah with Chicken",
+            "originalName": "ملوخية بالفراخ",
+            "description": "Finely chopped green leaves in chicken broth, with a taqliya of garlic and coriander poured in boiling at the end.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Molokhia_Farkha.jpg",
+            "prepTime": 30,
+            "cookTime": 80,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chopped mulukhiyah leaves",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "whole chicken, jointed",
+                    "quantity": "1.6",
+                    "unit": "kg"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "12",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground dried coriander",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cardamom and allspice",
+                    "quantity": "4",
+                    "unit": "each"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "whole onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Simmer the chicken in water with a whole onion, cardamom and allspice for 50 minutes. Strain and keep the clear broth.",
+                "Bring the broth to the boil and add the chopped mulukhiyah.",
+                "Cook 5–7 minutes only, uncovered. Longer, or with a lid, and the leaves sink and the soup separates.",
+                "Make the taqliya: fry the crushed garlic in hot oil until golden and fragrant, not brown, then add the dried coriander.",
+                "Pour the boiling taqliya into the pot. It will hiss — that hiss is the sign you did it right.",
+                "Serve at once over rice, with the chicken pieces alongside. Meat."
+            ],
+            "tags": [
+                "mulukhiyah",
+                "chicken",
+                "taqliya",
+                "meat"
+            ]
+        },
+        {
+            "id": "molokhia-lahma",
+            "title": "Mulukhiyah with Beef",
+            "originalName": "ملوخية باللحمة",
+            "description": "The same leaves on a beef broth — darker, heavier, and the winter one.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Molokhia_Lahma.jpg",
+            "prepTime": 30,
+            "cookTime": 120,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chopped mulukhiyah leaves",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "bone-in beef",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "12",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground dried coriander",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "whole onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon wedges to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Boil the beef and skim carefully — a mulukhiyah broth must run clear or the green looks muddy.",
+                "Cook 90 minutes with a whole onion and bay. Strain.",
+                "Bring the broth to the boil, add the mulukhiyah and cook 6 minutes uncovered.",
+                "Fry the garlic and dried coriander in oil and pour it in boiling.",
+                "Correct the salt. Do not stir much — stirring breaks the texture.",
+                "Serve with lemon wedges and white rice. Meat."
+            ],
+            "tags": [
+                "mulukhiyah",
+                "beef",
+                "winter",
+                "meat"
+            ]
+        },
+        {
+            "id": "fattah",
+            "title": "Fattah",
+            "originalName": "فتة",
+            "description": "Three layers — toasted bread, rice and meat — under a garlic and vinegar sauce poured over everything.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Fattah.jpg",
+            "prepTime": 40,
+            "cookTime": 150,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "stale baladi bread",
+                    "quantity": "3",
+                    "unit": "pitas"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "12",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cardamom and allspice",
+                    "quantity": "4",
+                    "unit": "each"
+                }
+            ],
+            "instructions": [
+                "Simmer the beef in water with cardamom and allspice for 2 hours until it falls apart. Keep the broth.",
+                "Tear the bread and toast at 200°C for 8 minutes until fully crisp.",
+                "Cook the rice in the beef broth.",
+                "Garlic sauce: fry crushed garlic in oil for 30 seconds, add the vinegar — it will spit — then the tomato paste and a cup of broth.",
+                "Build: toasted bread at the bottom, moisten it with hot broth, rice over, meat on top.",
+                "Pour the garlic sauce over everything and serve at once, before the bread softens entirely. Meat."
+            ],
+            "tags": [
+                "fattah",
+                "beef",
+                "garlic",
+                "festive"
+            ]
+        },
+        {
+            "id": "hamam-mahshi",
+            "title": "Stuffed Pigeon",
+            "originalName": "حمام محشي",
+            "description": "Small pigeons stuffed with freekeh or rice — Egypt's festive dish, and pigeon is a kosher bird.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Hamam_Mahshi.jpg",
+            "prepTime": 50,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "cleaned squab pigeons",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "freekeh or rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground allspice",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chicken stock",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Domestic pigeon is a kosher bird — it appears on the permitted list and was eaten in Egypt's communities without halachic doubt.",
+                "Rinse the birds well and dry. Rub with salt and lemon inside and out.",
+                "Fry the onion, add rinsed freekeh, cardamom and allspice and stir 3 minutes.",
+                "Fill each bird two thirds full and close with a pin or thread.",
+                "Pack into a pot, add stock to half their height and cook covered 60 minutes.",
+                "Move to a 220°C oven for 20 minutes until the skin golds and crisps. Meat."
+            ],
+            "tags": [
+                "pigeon",
+                "freekeh",
+                "festive",
+                "meat"
+            ]
+        },
+        {
+            "id": "kebda-iskandarani",
+            "title": "Alexandrian Liver",
+            "originalName": "كبدة اسكندراني",
+            "description": "Beef liver in thin strips with a great deal of garlic and chilli — very hot, and eaten in a baguette.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Kebda_Iskandarani.jpg",
+            "prepTime": 25,
+            "cookTime": 15,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "broiled beef liver, in strips",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "12",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "green chillies",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "red pepper flakes",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green bell pepper, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Broil the liver over open flame before anything else — a kashrut requirement that comes first.",
+                "Cut into very thin strips — the thinness is what makes the fast fry possible.",
+                "Heat an iron pan until it is nearly smoking.",
+                "Fry the garlic and chillies 40 seconds and add the liver.",
+                "Toss 3–4 minutes only over very high heat. Overcooked liver turns grainy.",
+                "Finish with cumin, red pepper and lemon. Serve in a baguette or pita. Meat."
+            ],
+            "tags": [
+                "liver",
+                "alexandria",
+                "spicy",
+                "meat"
+            ]
+        },
+        {
+            "id": "mombar",
+            "title": "Mombar",
+            "originalName": "ممبار",
+            "description": "Casings stuffed with rice and meat, simmered and then fried — crisp outside, soft within.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Mombar.jpg",
+            "prepTime": 90,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "cleaned beef casings",
+                    "quantity": "1.5",
+                    "unit": "metres"
+                },
+                {
+                    "name": "rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Egyptian baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vinegar and lemon to clean",
+                    "quantity": "1/2",
+                    "unit": "cup each"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "2",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "The cleaning is most of the work: turn the casing inside out, scrub with coarse flour, salt, vinegar and lemon, and rinse six times until there is no smell.",
+                "Mix uncooked rice, ground beef, onion, tomato paste and baharat.",
+                "Fill only halfway — the rice swells, and a full casing bursts.",
+                "Tie into 15 cm lengths and prick in several places with a needle.",
+                "Simmer in water with bay for 60 minutes over low heat.",
+                "Drain, dry, and fry to a deep gold. Meat."
+            ],
+            "tags": [
+                "mombar",
+                "stuffed",
+                "fried",
+                "meat"
+            ]
+        },
+        {
+            "id": "kofta-bel-forn",
+            "title": "Baked Kofta with Potatoes",
+            "originalName": "كفتة بالفرن",
+            "description": "Meat fingers and potato slices baked together in tomato — the Friday dish.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Kofta_Bel_Forn.jpg",
+            "prepTime": 30,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, grated and squeezed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "potatoes, sliced",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Egyptian baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead the beef with the squeezed onion, parsley, baharat and salt for 4 minutes.",
+                "Shape 2 cm thick fingers and sear them in a pan 2 minutes a side.",
+                "Fry the potato slices until lightly golden.",
+                "Arrange in a tin alternating: kofta, potato, kofta.",
+                "Mix the crushed tomato, paste and water and pour to half the height.",
+                "Bake covered at 190°C for 40 minutes, then uncovered for 15. Meat."
+            ],
+            "tags": [
+                "kofta",
+                "baked",
+                "potato",
+                "meat"
+            ]
+        },
+        {
+            "id": "sogo2",
+            "title": "Egyptian Sogo2",
+            "originalName": "سجق",
+            "description": "Spiced meat sausages simmered in a hot tomato sauce — fresh, not dried.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Sogo2.jpg",
+            "prepTime": 40,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "10",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "red pepper flakes",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin and coriander",
+                    "quantity": "1",
+                    "unit": "tbsp each"
+                },
+                {
+                    "name": "lamb casings",
+                    "quantity": "1",
+                    "unit": "metre"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix the beef, garlic, red pepper, cumin, coriander and salt and knead 5 minutes.",
+                "Chill overnight — the seasoning needs to penetrate and the meat to firm.",
+                "Fill the casings and twist into 10 cm sausages. Prick each with a needle.",
+                "Brown them in oil in a pan on all sides.",
+                "Add the tomato paste, crushed tomatoes and water and cook 25 minutes.",
+                "The sauce thickens and reddens. Serve in baladi bread. Meat."
+            ],
+            "tags": [
+                "sogo2",
+                "sausage",
+                "spicy",
+                "meat"
+            ]
+        },
+        {
+            "id": "mosaka-lahma",
+            "title": "Mesa'aa with Meat",
+            "originalName": "مسقعة باللحمة",
+            "description": "The meat version — aubergine, beef and tomato layered, without béchamel, and served hot.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Meat",
+            "image": "images/Mosaka_Lahma.jpg",
+            "prepTime": 45,
+            "cookTime": 60,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "aubergines, sliced",
+                    "quantity": "3",
+                    "unit": "large"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "green peppers",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Egyptian baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Salt the aubergine slices 30 minutes, squeeze and fry until golden.",
+                "Fry the onion and green pepper, add the beef and baharat and cook 10 minutes.",
+                "Add the tomato paste and crushed tomatoes and cook 15 minutes until thick.",
+                "Layer in a tin: aubergine, meat, aubergine, meat.",
+                "No béchamel — the Egyptian version does not know it, and that is also what keeps this a meat dish rather than a mixture.",
+                "Bake at 190°C for 40 minutes. Served hot, unlike the parve version. Meat."
+            ],
+            "tags": [
+                "mesaa",
+                "meat",
+                "aubergine",
+                "baked"
+            ]
+        },
+        {
+            "id": "torly",
+            "title": "Torly — Baked Vegetables",
+            "originalName": "خضار بالفرن",
+            "description": "Seven vegetables in one tin with tomato and garlic — parve, and on the table for every fast.",
+            "category": "Mulukhiyah & Stews",
+            "kosherType": "Parve",
+            "image": "images/Torly.jpg",
+            "prepTime": 30,
+            "cookTime": 70,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "potatoes, cubed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "aubergines, cubed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "courgettes, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "green beans",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "8",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Cut all the vegetables to a similar size — that is what decides whether they finish together.",
+                "Toss the firm ones (potato, carrot) in olive oil and roast 20 minutes alone.",
+                "Add the aubergine, courgette and beans and toss.",
+                "Mix the crushed tomato, garlic, salt and water and pour over.",
+                "Bake covered at 190°C for 35 minutes.",
+                "Uncover for a final 15 until the edges brown. Parve — hot or at room temperature."
+            ],
+            "tags": [
+                "torly",
+                "vegetables",
+                "parve",
+                "baked"
+            ]
+        },
+        {
+            "id": "roz-meammar",
+            "title": "Roz Me'ammar",
+            "originalName": "رز معمر",
+            "description": "Rice baked in milk and cream until a golden crust forms — \"built rice\", the table's dish of honour.",
+            "category": "Rice & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Roz_Meammar.jpg",
+            "prepTime": 20,
+            "cookTime": 70,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "Egyptian short-grain rice",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "whole milk",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "single cream",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "butter",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice and soak 30 minutes. Drain well.",
+                "Cook the rice only partly — 10 minutes in water — and drain. It finishes in the milk.",
+                "Heat the milk, cream, butter, sugar and salt to the edge of a boil without boiling.",
+                "Stir the half-cooked rice through and turn into a greased clay or pyrex dish.",
+                "Bake at 180°C for 60–70 minutes, uncovered. The liquid is absorbed and the top crusts.",
+                "Ready when the crust is golden-brown and the rice has taken everything. Rest 15 minutes. A dairy dish — it does not follow the mulukhiyah."
+            ],
+            "tags": [
+                "roz meammar",
+                "dairy",
+                "rice",
+                "festive"
+            ]
+        },
+        {
+            "id": "roz-b-sheiriya",
+            "title": "Rice with Vermicelli",
+            "originalName": "رز بالشعرية",
+            "description": "White rice with fine noodles browned in oil first — every household's everyday rice.",
+            "category": "Rice & Breads",
+            "kosherType": "Parve",
+            "image": "images/Roz_B_Sheiriya.jpg",
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "Egyptian rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine vermicelli",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice four times and soak 20 minutes.",
+                "Break the vermicelli into short pieces.",
+                "Heat the oil and fry the vermicelli 3–4 minutes to a golden brown, stirring constantly. It burns in seconds if you look away.",
+                "Add the drained rice and stir a minute.",
+                "Add boiling water and salt, bring to the boil, then lower and cover.",
+                "Cook 18 minutes and rest 10 minutes covered. Parve — it suits the mulukhiyah and cheese alike."
+            ],
+            "tags": [
+                "rice",
+                "vermicelli",
+                "parve",
+                "everyday"
+            ]
+        },
+        {
+            "id": "roz-b-khalta",
+            "title": "Rice with Khalta",
+            "originalName": "رز بالخلطة",
+            "description": "Festive rice with raisins, almonds and pine nuts — here in a parve version, without the chicken liver.",
+            "category": "Rice & Breads",
+            "kosherType": "Parve",
+            "image": "images/Roz_B_Khalta.jpg",
+            "prepTime": 20,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "Egyptian rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "allspice and cardamom",
+                    "quantity": "1",
+                    "unit": "tsp each"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "4.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "The traditional version includes chicken liver. This one leaves it out so the rice stays parve and can also go to a dairy meal. Anyone wanting it meat adds broiled liver.",
+                "Soak the raisins in hot water 15 minutes and drain.",
+                "Toast the almonds and pine nuts in oil until golden and set aside.",
+                "Fry the onion in the same oil 10 minutes, add the rice, allspice and cardamom and stir 2 minutes.",
+                "Add boiling water and salt and cook covered 20 minutes.",
+                "Fold in the raisins and nuts and rest 10 minutes. Parve."
+            ],
+            "tags": [
+                "rice",
+                "raisins",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "mahshi-kromb",
+            "title": "Egyptian Stuffed Cabbage",
+            "originalName": "محشي كرنب",
+            "description": "Cabbage rolls as thin as a little finger — the tightness is what sets them apart from every other stuffed cabbage.",
+            "category": "Rice & Breads",
+            "kosherType": "Meat",
+            "image": "images/Mahshi_Kromb.jpg",
+            "prepTime": 80,
+            "cookTime": 80,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "whole white cabbage",
+                    "quantity": "1",
+                    "unit": "large"
+                },
+                {
+                    "name": "Egyptian rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "8",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Core the cabbage and lower it into boiling water. Peel the leaves off as they soften.",
+                "Cut each leaf into 8 cm wide strips and strip the thick rib.",
+                "Mix uncooked rice, beef, tomato paste, dill, salt and baharat.",
+                "Use a level teaspoon only and roll as thin as a little finger. A thick roll is the mark of hurried work.",
+                "Pack tightly in layers in a pot lined with spare leaves, with garlic between the layers.",
+                "Pour in water, lemon and oil, set a plate on top and cook 70 minutes. Meat."
+            ],
+            "tags": [
+                "mahshi",
+                "cabbage",
+                "dill",
+                "meat"
+            ]
+        },
+        {
+            "id": "warak-enab-shabat",
+            "title": "Vine Leaves with Dill",
+            "originalName": "ورق عنب بالشبت",
+            "description": "The Egyptian version — dill instead of mint, and lemon instead of pomegranate molasses.",
+            "category": "Rice & Breads",
+            "kosherType": "Meat",
+            "image": "images/Warak_Enab_Shabat.jpg",
+            "prepTime": 80,
+            "cookTime": 80,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "vine leaves",
+                    "quantity": "60",
+                    "unit": ""
+                },
+                {
+                    "name": "Egyptian rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "350",
+                    "unit": "g"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "1",
+                    "unit": "large bunch"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "The difference from the Aleppo yebra is the herbs: there, mint and pomegranate molasses; here, dill and lemon. They are not the same dish.",
+                "Blanch the leaves 2 minutes and cool.",
+                "Mix uncooked rice, beef, a great deal of dill, parsley, onion and salt.",
+                "Roll thin and pack tightly into a lined pot.",
+                "Pour in water, lemon juice and oil to cover.",
+                "Set a heavy plate on top and cook 70 minutes over low heat. Meat."
+            ],
+            "tags": [
+                "vine leaves",
+                "dill",
+                "lemon",
+                "meat"
+            ]
+        },
+        {
+            "id": "hawawshi",
+            "title": "Hawawshi",
+            "originalName": "حواوشي",
+            "description": "Baladi bread stuffed with spiced meat and baked in a scorching oven until the crust just chars.",
+            "category": "Rice & Breads",
+            "kosherType": "Meat",
+            "image": "images/Hawawshi.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "baladi bread",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "green chillies",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "Egyptian baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil to brush",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix the beef, onion, chilli, parsley, baharat and tomato paste.",
+                "Drain the mixture 15 minutes — a wet filling turns the bread to pulp.",
+                "Open each bread into a pocket and fill with an even layer.",
+                "Brush the outside with oil.",
+                "Bake at 250°C for 20–25 minutes on a preheated tray.",
+                "The bread crisps and the fat soaks inward. Cut into quarters and serve hot. Meat."
+            ],
+            "tags": [
+                "hawawshi",
+                "bread",
+                "baked",
+                "meat"
+            ]
+        },
+        {
+            "id": "sambousek-masri",
+            "title": "Egyptian Meat Sambousek",
+            "originalName": "سمبوسك",
+            "description": "Half-moons filled with meat, pine nuts and raisins — sweet-savoury, and built on oil rather than butter.",
+            "category": "Rice & Breads",
+            "kosherType": "Meat",
+            "image": "images/Sambousek_Masri.jpg",
+            "prepTime": 60,
+            "cookTime": 25,
+            "servings": 24,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "allspice and cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp each"
+                }
+            ],
+            "instructions": [
+                "Knead the flour, oil, water and salt into a soft dough and chill 40 minutes.",
+                "The dough is on oil, not butter — which is what keeps the sambousek meat and not a mixture.",
+                "Fry the onion, add the beef, allspice and cinnamon and cook 10 minutes.",
+                "Add the pine nuts and raisins and cool completely.",
+                "Roll to 3 mm, cut 9 cm circles, fill and crimp with a fork.",
+                "Bake at 190°C for 22 minutes, or deep-fry. Meat."
+            ],
+            "tags": [
+                "sambousek",
+                "meat",
+                "pine nuts",
+                "meat"
+            ]
+        },
+        {
+            "id": "feteer-meshaltet",
+            "title": "Feteer Meshaltet",
+            "originalName": "فطير مشلتت",
+            "description": "A hundred paper-thin buttered layers — \"the layered pastry\", eaten with honey or cheese.",
+            "category": "Rice & Breads",
+            "kosherType": "Dairy",
+            "image": "images/Feteer_Meshaltet.jpg",
+            "prepTime": 90,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "honey to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Knead the flour, water and salt into a soft dough and rest 40 minutes.",
+                "Divide into 6 balls, coat in melted butter and rest another 30 minutes.",
+                "Stretch each ball until it is completely transparent and you can see the table through it — that is the whole skill.",
+                "Brush with butter and fold into a square. Repeat through all six.",
+                "Stack the six squares in a round tin, brushing butter between each layer.",
+                "Bake at 220°C for 28–30 minutes until golden and crisp. Dairy — served with honey or cheese."
+            ],
+            "tags": [
+                "feteer",
+                "layers",
+                "dairy",
+                "pastry"
+            ]
+        },
+        {
+            "id": "eish-shamsi",
+            "title": "Eish Shamsi — Sun Bread",
+            "originalName": "عيش شمسي",
+            "description": "A sourdough proved in the sun on a bed of bran — a method thousands of years old, from Upper Egypt.",
+            "category": "Rice & Breads",
+            "kosherType": "Parve",
+            "image": "images/Eish_Shamsi.jpg",
+            "prepTime": 240,
+            "cookTime": 15,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "wholemeal flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "active sourdough starter",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coarse bran to dust",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Mix the flour, starter, water and salt and knead 12 minutes. The dough will be wet and sticky.",
+                "Rise 2 hours, covered.",
+                "Divide into balls, roll in bran and set on a wooden board dusted with bran.",
+                "Put them in direct sun for 2–3 hours — the heat and light are the prove. Cover with thin cloth against insects.",
+                "The dough swells and cracks appear across the surface. That is the sign.",
+                "Bake on a stone at 250°C for 12–15 minutes. Parve."
+            ],
+            "tags": [
+                "eish shamsi",
+                "sourdough",
+                "parve",
+                "sun"
+            ]
+        },
+        {
+            "id": "eish-merahrah",
+            "title": "Eish Merahrah",
+            "originalName": "عيش مرحرح",
+            "description": "A thin maize bread with fenugreek, baked very flat — its smell is strong and bittersweet.",
+            "category": "Rice & Breads",
+            "kosherType": "Parve",
+            "image": "images/Eish_Merahrah.jpg",
+            "prepTime": 180,
+            "cookTime": 12,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "maize flour",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "wholemeal flour",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground fenugreek",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sourdough starter",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.75",
+                    "unit": "cups"
+                },
+                {
+                    "name": "bran to dust",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "2",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the ground fenugreek in hot water 30 minutes — the soak softens the bitterness but leaves the smell, which is the point.",
+                "Mix everything into a very wet dough, almost a thick batter.",
+                "Rise 2½ hours, covered.",
+                "Dust a surface generously with bran and press the dough very thin — 5 mm.",
+                "Rest 20 minutes before baking.",
+                "Bake on a stone at 260°C for 10–12 minutes. Parve — it keeps a week and hardens well."
+            ],
+            "tags": [
+                "eish merahrah",
+                "fenugreek",
+                "maize",
+                "parve"
+            ]
+        },
+        {
+            "id": "samak-singari",
+            "title": "Samak Singari",
+            "originalName": "سمك سنجاري",
+            "description": "A whole fish baked in salt and spice on a bed of vegetables — the Alexandria method, with no frying and no sauce.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Samak_Singari.jpg",
+            "prepTime": 30,
+            "cookTime": 30,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole fish (mullet or bream)",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "8",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "tomatoes and onions, sliced",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                }
+            ],
+            "instructions": [
+                "Clean the fish and cut three deep slashes on each side.",
+                "Rub the coarse salt, cumin and garlic into the slashes, not just onto the skin.",
+                "Leave 20 minutes. No longer — the salt starts drying the flesh.",
+                "Spread tomato and onion across a tin and set the fish on them.",
+                "Pour over the olive oil and lemon and bake at 220°C for 25–30 minutes, uncovered.",
+                "Scatter fresh coriander to serve. Parve."
+            ],
+            "tags": [
+                "fish",
+                "alexandria",
+                "baked",
+                "parve"
+            ]
+        },
+        {
+            "id": "samak-makly",
+            "title": "Alexandrian Fried Fish",
+            "originalName": "سمك مقلي",
+            "description": "Small whole fish in a flour and cumin coating, deep-fried and eaten with the hands.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Samak_Makly.jpg",
+            "prepTime": 30,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "small whole fish",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "garlic powder",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the fish in salted lemon water 20 minutes, rinse and dry thoroughly.",
+                "Mix the flour, cumin, turmeric, garlic and salt.",
+                "Dust each fish and shake off the excess. A thick coating falls off in the oil.",
+                "Heat the oil to 180°C — hot enough that the fish does not absorb.",
+                "Fry 4–5 minutes a side, in small batches so the oil does not cool.",
+                "Drain on a rack and serve with lemon and tahini. Parve."
+            ],
+            "tags": [
+                "fish",
+                "fried",
+                "alexandria",
+                "parve"
+            ]
+        },
+        {
+            "id": "renga",
+            "title": "Renga — Smoked Herring",
+            "originalName": "رنجة",
+            "description": "Smoked fish split open and served with onion, lemon and oil — all Egypt's Sham el-Nessim dish.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Renga.jpg",
+            "prepTime": 40,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole smoked herring",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "spring onions, chopped",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "red onion, thinly sliced",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "baladi bread to serve",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Sham el-Nessim is an ancient Egyptian spring festival, and Egypt's Jewish communities marked it alongside Passover. Renga is its dish.",
+                "Split the smoked fish lengthwise and lift out the spine and large bones.",
+                "Soak in cold water for an hour if it is very salty, and dry.",
+                "Break into coarse pieces and lay on a flat plate.",
+                "Salt the red onion, rest 10 minutes and squeeze.",
+                "Scatter the spring onion, red onion and parsley, and pour over the lemon, oil and cumin. Parve."
+            ],
+            "tags": [
+                "renga",
+                "smoked",
+                "sham el-nessim",
+                "parve"
+            ]
+        },
+        {
+            "id": "salatet-tahina-masri",
+            "title": "Egyptian Tahini Salad",
+            "originalName": "سلطة طحينة",
+            "description": "Tahini with vinegar as well as lemon — sharper than the Levantine version.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Salatet_Tahina_Masri.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "raw tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "4",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/3",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Mix the raw tahini with half the water. It will seize and look ruined — that is normal; keep going.",
+                "Add water gradually until smooth and pale.",
+                "Add both vinegar and lemon — that is the difference from the Levantine tahini, and it gives a deeper sharpness.",
+                "Add the garlic, cumin and salt and mix.",
+                "Rest 20 minutes — it thickens slightly; add more water if needed.",
+                "Scatter parsley and drizzle olive oil. Parve — it goes with fish and ful alike."
+            ],
+            "tags": [
+                "tahini",
+                "vinegar",
+                "parve",
+                "sauce"
+            ]
+        },
+        {
+            "id": "salata-baladi",
+            "title": "Salata Baladi",
+            "originalName": "سلطة بلدي",
+            "description": "The Egyptian house salad — tomato, cucumber, pepper and onion in large dice, with vinegar.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Salata_Baladi.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "cucumbers",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "green pepper",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "red onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Cut the vegetables into 2 cm dice — the Egyptian salad is coarser than the Israeli one, deliberately.",
+                "Salt the red onion, rest 10 minutes, then rinse.",
+                "Combine the vegetables and parsley in a bowl.",
+                "Whisk the vinegar, olive oil, cumin and salt into a dressing.",
+                "The vinegar is the marker — an Egyptian salad is sour from vinegar, not from lemon alone.",
+                "Dress and serve at once. Parve."
+            ],
+            "tags": [
+                "salad",
+                "vinegar",
+                "parve",
+                "baladi"
+            ]
+        },
+        {
+            "id": "betingan-mekhalel",
+            "title": "Vinegar-Pickled Aubergine",
+            "originalName": "باذنجان مخلل",
+            "description": "Aubergine strips in vinegar, garlic and chilli — ready in three days rather than three weeks.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Betingan_Mekhalel.jpg",
+            "prepTime": 40,
+            "cookTime": 15,
+            "servings": 16,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "aubergines",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "white vinegar",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, sliced",
+                    "quantity": "12",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "hot peppers",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cut the aubergines into 1 cm strips.",
+                "Blanch 8 minutes only in water with vinegar — they should soften but keep some bite.",
+                "Drain and press under a weight for 2 hours to draw out water. The pressing is what stops a watery pickle.",
+                "Mix the sliced garlic, chillies, cumin and salt.",
+                "Layer aubergine and garlic mixture into a jar.",
+                "Pour vinegar and olive oil to cover. Ready in 3 days, refrigerated. Parve."
+            ],
+            "tags": [
+                "aubergine",
+                "pickle",
+                "vinegar",
+                "parve"
+            ]
+        },
+        {
+            "id": "salatet-banjan-masri",
+            "title": "Fried Aubergine Salad in Vinegar",
+            "originalName": "سلطة باذنجان مقلي",
+            "description": "Fried aubergine cubes steeped in vinegar and garlic — served cold, and better on the second day.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Salatet_Banjan_Masri.jpg",
+            "prepTime": 40,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "aubergines, cubed",
+                    "quantity": "3",
+                    "unit": "large"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "10",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green chillies",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Salt the aubergine cubes 30 minutes, squeeze and dry.",
+                "Deep-fry to a golden brown and drain on a rack.",
+                "Mix the crushed garlic, vinegar, cumin and salt.",
+                "Pour it over the aubergine while still hot — hot, it absorbs; cold, it is only coated.",
+                "Add sliced chilli and parsley.",
+                "Chill at least 4 hours. Better on the second day. Parve."
+            ],
+            "tags": [
+                "aubergine",
+                "vinegar",
+                "parve",
+                "cold"
+            ]
+        },
+        {
+            "id": "salatet-gargeer",
+            "title": "Rocket and Onion Salad",
+            "originalName": "سلطة جرجير",
+            "description": "Peppery rocket with onion and lemon — the salad that comes with fried fish, always.",
+            "category": "Fish & Salads",
+            "kosherType": "Parve",
+            "image": "images/Salatet_Gargeer.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "rocket leaves",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "red onion, very thinly sliced",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "cherry tomatoes, halved",
+                    "quantity": "15",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Wash the rocket in very cold water and dry well — cold, it stays crisp.",
+                "Slice the onion as thin as it will go, almost translucent.",
+                "Salt the onion, rest 10 minutes, then squeeze and rinse.",
+                "Whisk the lemon, olive oil, sumac and salt.",
+                "Combine the rocket, onion and cherry tomatoes.",
+                "Dress only at serving — rocket in dressing collapses within minutes. Parve."
+            ],
+            "tags": [
+                "rocket",
+                "salad",
+                "parve",
+                "fish"
+            ]
+        },
+        {
+            "id": "zabadi-khiyar",
+            "title": "Zabadi with Cucumber",
+            "originalName": "زبادي بالخيار",
+            "description": "Yogurt with cucumber, garlic and mint — cool and calming, and only at a dairy meal.",
+            "category": "Fish & Salads",
+            "kosherType": "Dairy",
+            "image": "images/Zabadi_Khiyar.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "thick zabadi (yogurt)",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cucumbers, grated",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "3",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Zabadi is yogurt — the word says nothing about milk, but the dish is entirely dairy and does not come with a meat mulukhiyah.",
+                "Grate the cucumbers and salt them. Rest 20 minutes and squeeze hard — unsqueezed cucumber thins the yogurt to water.",
+                "Pound the garlic with salt into a paste.",
+                "Mix the yogurt, squeezed cucumber, garlic and dried mint.",
+                "Add lemon and correct the salt.",
+                "Chill an hour and drizzle olive oil. A dairy dish."
+            ],
+            "tags": [
+                "zabadi",
+                "yogurt",
+                "dairy",
+                "cold"
+            ]
+        },
+        {
+            "id": "gebna-beida",
+            "title": "Gebna Beida — Egyptian White Cheese",
+            "originalName": "جبنة بيضاء",
+            "description": "A salty cheese kept in brine — eaten at breakfast with ful and baladi bread.",
+            "category": "Fish & Salads",
+            "kosherType": "Dairy",
+            "image": "images/Gebna_Beida.jpg",
+            "prepTime": 30,
+            "cookTime": 30,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole milk",
+                    "quantity": "4",
+                    "unit": "litres"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "4",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water for brine",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "nigella seeds",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Heat the milk slowly to 85°C, stirring occasionally so it does not catch.",
+                "Off the heat, add the lemon juice gradually, stirring gently.",
+                "The curds separate from a greenish whey within 5 minutes. Leave 15 minutes untouched.",
+                "Strain through cheesecloth and hang for an hour to drain.",
+                "Press under a weight for 2 hours into a firm block, and cut into cubes.",
+                "Keep in brine (a tablespoon of salt to a cup of water), refrigerated. Scatter nigella to serve. A dairy dish."
+            ],
+            "tags": [
+                "cheese",
+                "dairy",
+                "brine",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "basbousa",
+            "title": "Basbousa",
+            "originalName": "بسبوسة",
+            "description": "A semolina cake in syrup, cut into diamonds with an almond in each — made with oil, so parve.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Basbousa.jpg",
+            "prepTime": 20,
+            "cookTime": 40,
+            "servings": 16,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "desiccated coconut",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "whole almonds",
+                    "quantity": "20",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar syrup",
+                    "quantity": "2",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "The traditional version is built on yogurt and ghee. Here oil and water take their place, so the cake is parve and can follow the mulukhiyah. The flavour shifts a little; the kashrut does not.",
+                "Simmer the sugar syrup with lemon 10 minutes and cool completely.",
+                "Mix the semolina, coconut, sugar, baking powder, oil and water into a thick paste.",
+                "Press into a greased tin and score diamonds before baking. Press an almond into each.",
+                "Bake at 180°C for 35–40 minutes to a deep gold.",
+                "Pour the cold syrup over the boiling cake the moment it leaves the oven. Rest an hour. Parve."
+            ],
+            "tags": [
+                "basbousa",
+                "semolina",
+                "parve",
+                "syrup"
+            ]
+        },
+        {
+            "id": "balah-el-sham",
+            "title": "Balah el-Sham",
+            "originalName": "بلح الشام",
+            "description": "\"Syrian dates\" — fingers of choux dough fried and steeped in syrup, hollow inside and crisp out.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Balah_El_Sham.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 24,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Make the syrup and cool it completely.",
+                "Boil the water and oil, add the flour all at once and beat hard until the paste pulls from the sides.",
+                "Cool 10 minutes — egg added to hot paste cooks.",
+                "Add the eggs one at a time, beating well after each.",
+                "Pipe 6 cm fingers through a star nozzle straight into oil at 160°C only — hotter and the outside browns before the inside puffs.",
+                "Fry 8 minutes to golden, and move boiling hot into the cold syrup. Parve."
+            ],
+            "tags": [
+                "balah el-sham",
+                "syrup",
+                "fried",
+                "parve"
+            ]
+        },
+        {
+            "id": "belila",
+            "title": "Belila",
+            "originalName": "بليلة",
+            "description": "Whole wheat berries in cinnamon syrup with nuts — in the parve version, without milk.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Belila.jpg",
+            "prepTime": 15,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "whole wheat berries",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "walnuts and almonds",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "desiccated coconut",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                }
+            ],
+            "instructions": [
+                "The common Egyptian version is made with milk. This is the water version — parve, and the one served after a meat meal.",
+                "Soak the wheat overnight and drain.",
+                "Cook in water with the cinnamon stick for 80 minutes until the grains soften and split.",
+                "Add the sugar and cook 10 minutes more until the liquid thickens slightly.",
+                "Off the heat, add the rose water.",
+                "Ladle into bowls and scatter nuts, raisins and coconut. Served hot. Parve."
+            ],
+            "tags": [
+                "belila",
+                "wheat",
+                "parve",
+                "winter"
+            ]
+        },
+        {
+            "id": "ghorayeba",
+            "title": "Ghorayeba",
+            "originalName": "غريبة",
+            "description": "Cookies that dissolve in the mouth, entirely white, with a pistachio in the centre — here on oil rather than ghee.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Ghorayeba.jpg",
+            "prepTime": 30,
+            "cookTime": 20,
+            "servings": 30,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "solid coconut oil",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "whole pistachios",
+                    "quantity": "30",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "The original is made with samna — clarified butter. Here solid coconut oil gives the same crumbling texture and keeps the cookie parve.",
+                "Beat the fat with the icing sugar for 8 minutes until white and airy. That is the whole texture.",
+                "Add the rose water and fold in the sifted flour with a spoon only.",
+                "Chill 30 minutes.",
+                "Roll balls, press a pistachio into each and space them apart.",
+                "Bake at 150°C only, for 18–20 minutes. They must stay completely white. Parve."
+            ],
+            "tags": [
+                "ghorayeba",
+                "cookies",
+                "parve",
+                "pistachio"
+            ]
+        },
+        {
+            "id": "karkade",
+            "title": "Karkade — Hibiscus Drink",
+            "originalName": "كركديه",
+            "description": "Dried red calyces steeped into a ruby drink — sour, and served hot or cold.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Karkade.jpg",
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried hibiscus flowers",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon slices",
+                    "quantity": "3",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Rinse the dried flowers in cold water.",
+                "For cold: steep in cold water for 12 hours. That is the correct method — it draws the colour without bitterness.",
+                "For hot: boil the water with the cinnamon, take off the heat, add the flowers and steep 10 minutes covered.",
+                "Never boil the flowers themselves — boiling draws tannins and the drink turns bitter.",
+                "Strain and add the sugar while still hot, until fully dissolved.",
+                "Add lemon slices. Served scalding in winter or over ice in summer. Parve."
+            ],
+            "tags": [
+                "karkade",
+                "hibiscus",
+                "parve",
+                "drink"
+            ]
+        },
+        {
+            "id": "erk-sous",
+            "title": "Erk Sous — Liquorice Root Drink",
+            "originalName": "عرق سوس",
+            "description": "A bittersweet amber drink shaken to a foam at serving — Cairo's street in a glass.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Erk_Sous.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground liquorice root",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ice",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Mix the ground root with the baking soda — it is what releases the sweetness from the root, and without it the drink is only bitter.",
+                "Add half a cup of hot water and work into a paste. Rest 20 minutes.",
+                "Turn into doubled cheesecloth, tie it, and steep in 2 litres of cold water for 4 hours.",
+                "Squeeze the cloth hard and strain twice — a cloudy drink is not considered a success.",
+                "Chill at least 3 hours.",
+                "Shake hard before serving — the foam is the marker. Pour over ice. Parve."
+            ],
+            "tags": [
+                "erk sous",
+                "liquorice",
+                "parve",
+                "drink"
+            ]
+        },
+        {
+            "id": "tamr-hindi",
+            "title": "Tamr Hindi — Tamarind Drink",
+            "originalName": "تمر هندي",
+            "description": "Soaked tamarind strained into a brown, sour liquid — the drink that carries Cairo through the heat.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Tamr_Hindi.jpg",
+            "prepTime": 20,
+            "cookTime": 20,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "tamarind paste",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ice",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Soak the tamarind paste in hot water for 30 minutes until fully softened.",
+                "Crush it by hand in the water to release the pulp from the seeds.",
+                "Strain through a coarse sieve and then through cloth — tamarind carries fibres that are unpleasant to drink.",
+                "Add the sugar while still hot and stir until fully dissolved.",
+                "Add the rose water and chill at least 4 hours.",
+                "Serve over ice. Parve — adjust the sweetness to taste; it should stay mainly sour."
+            ],
+            "tags": [
+                "tamarind",
+                "drink",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "qamar-el-din",
+            "title": "Qamar el-Din",
+            "originalName": "قمر الدين",
+            "description": "Sheets of dried apricot dissolved into a thick orange nectar — \"moon of the faith\", served cold.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Parve",
+            "image": "images/Qamar_El_Din.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried apricot sheets",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "hot water",
+                    "quantity": "1.5",
+                    "unit": "litres"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Tear the apricot sheets into small pieces — the smaller they are, the faster they dissolve.",
+                "Soak in hot water for at least 6 hours, stirring every hour.",
+                "Crush by hand or blend into a thick, even liquid.",
+                "Strain through a fine sieve for a smooth drink, or leave it coarse for a richer texture.",
+                "Add the sugar and rose water and adjust the thickness with water.",
+                "Soak the pine nuts and almonds 20 minutes and scatter over. Served very cold. Parve."
+            ],
+            "tags": [
+                "qamar el-din",
+                "apricot",
+                "parve",
+                "drink"
+            ]
+        },
+        {
+            "id": "om-ali",
+            "title": "Om Ali",
+            "originalName": "أم علي",
+            "description": "Torn baked pastry soaked in milk, cream and nuts — Egypt's most famous dessert.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Dairy",
+            "image": "images/Om_Ali.jpg",
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "baked puff pastry or feteer",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "whole milk",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "single cream",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnuts, almonds, pistachios",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "desiccated coconut",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Tear the baked pastry into pieces and arrange in a deep dish.",
+                "Scatter the nuts, raisins and coconut between the pieces, not only on top — so every mouthful has some.",
+                "Heat the milk with the sugar and cinnamon to the edge of a boil, without boiling.",
+                "Pour over the pastry and press down lightly so it all soaks. Leave 10 minutes.",
+                "Pour the cream over in an even layer.",
+                "Bake at 200°C for 25–30 minutes until golden and bubbling. Serve hot. Dairy."
+            ],
+            "tags": [
+                "om ali",
+                "dairy",
+                "dessert",
+                "nuts"
+            ]
+        },
+        {
+            "id": "konafa-gebna",
+            "title": "Cheese Konafa",
+            "originalName": "كنافة بالجبنة",
+            "description": "Crisp kadaif strands around melting cheese in syrup — the contrast between salt and sweet is the dish.",
+            "category": "Sweets & Drinks",
+            "kosherType": "Dairy",
+            "image": "images/Konafa_Gebna.jpg",
+            "prepTime": 30,
+            "cookTime": 40,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "kadaif (shredded pastry)",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "akkawi or mozzarella",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pistachios, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Simmer the syrup with lemon 12 minutes, add the rose water and cool completely.",
+                "Soak the cheese in water for 2 hours with three changes if it is salty. Cheese that is too salty destroys the balance.",
+                "Crumble the kadaif by hand and work the melted butter through until every strand is coated.",
+                "Press half into a tin, scatter the shredded cheese, and cover with the other half. Press down hard.",
+                "Bake at 190°C for 35–40 minutes until the base is golden-brown.",
+                "Invert onto a plate and pour the cold syrup over the boiling konafa. Scatter pistachios. Dairy."
+            ],
+            "tags": [
+                "konafa",
+                "cheese",
+                "dairy",
+                "syrup"
+            ]
+        }
+    ]
+}
